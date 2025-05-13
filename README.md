@@ -64,4 +64,4 @@ merger.process_pdfs_in_parallel("output.pdf")
 
 ## License
 
-[Your chosen license]
+This project is licensed under the MIT License.
